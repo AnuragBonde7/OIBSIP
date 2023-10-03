@@ -35,7 +35,7 @@ class LoginApplication {
         // Display available trains (train number and name)
         System.out.println("\nAvailable Trains:");
         System.out.println("1. Train 440z - Express");
-        System.out.println("2. Train 540l - Superfast");
+        System.out.println("2. Train 540l - Swift");
         System.out.print("Enter the train number: ");
         int trainNumber = scanner.nextInt();
         scanner.nextLine(); // Consume the remaining newline character

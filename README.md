@@ -23,9 +23,9 @@ Projects Included:
 
 Key Features:
 
-  -  Each project showcases my proficiency in Java programming, including object-oriented design principles and GUI development using Swing.
+  -  Each project showcases my proficiency in Java programming, including object-oriented design principles.
 
-  -  Implemented core functionalities such as user authentication, data handling, and interactive interfaces.
+  -  Implemented core functionalities such as user authentication, data handling.
 
   -  Ensured code quality through thorough testing and debugging processes.
 
@@ -36,7 +36,6 @@ Technologies Used:
 
 -  Java
 
--  Swing (for GUI development)
 
 
 

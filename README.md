@@ -5,6 +5,7 @@ Java Programming Internship Projects
 Welcome to my internship repository for Java programming! The projects I worked on during my month-long internship, which was centered on gaining real-world experience in Java application development, are included in this repository.
 
 Projects Included:
+
 Online Reservation System
 Number Guessing Game
 ATM Interface
